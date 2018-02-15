@@ -1,0 +1,4 @@
+Flask==0.12.2
+google-api-python-client==1.6.3
+gunicorn==19.7.1
+pyTelegramBotAPI==3.2.0

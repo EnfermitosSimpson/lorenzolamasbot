@@ -1,8 +1,8 @@
-BOT_NAME = "gisearch_bot"
+BOT_NAME = "lorenzolamasbot"
 CSE_KEY = "AIzaSyBpe97vYDqg_jeZUuNyFiH6KVsMWo2yZXc"
 CSE_CX = "000824544490182361845:y9fhnbyzq74"
-API_TOKEN = "512432533:AAFwjkNlQLs_5lBNFFWwjPv0OAa58juiS1s"
-WEBHOOK_URL = "https://gisearch.herokuapp.com"
+API_TOKEN = "484899535:AAGxrUElMwyP-iXwkYB0RraC3FNleFHpkXs"
+WEBHOOK_URL = "http://lorenzolamasbot-lorenzolamasbot.7e14.starter-us-west-2.openshiftapps.com/"
 NGINX_SUBPATH = ""
 BATCH = 10
 POLLING = False
